@@ -1,10 +1,9 @@
-# Computer-Security
-
-Secure File-Sharing System
-##Introduction
+# Secure File-Sharing System
+---
+## Introduction
 This project leverages cryptographic libraries to create a robust and secure file-sharing system. It provides users with the ability to log in, store files, and share files with others while ensuring data integrity and confidentiality in hostile environments.
 
-##Functionality
+## Functionality
 The implementation comprises a set of eight essential functions that enable users to perform various file operations seamlessly. These functions are designed to offer a secure and dependable file-sharing experience:
 
 InitUser - Initializes user accounts with robust security measures, preventing unauthorized access.
@@ -23,8 +22,9 @@ AcceptInvitation: Allow users to securely accept file sharing invitations.
 
 RevokeAccess: Provide the means to securely revoke access to shared files while ensuring data confidentiality.
 
-##Usage
+## Usage
 To take full advantage of the secure file-sharing system, users can interact with these functions via well-defined APIs. Each function is carefully designed to offer a seamless, secure, and dependable file-sharing experience in a hostile environment.
+
 ---
 Language: Go
 
@@ -33,6 +33,10 @@ Compiler: Visual Studio Code
 Author: Zilong Guo, Noah Yin
 
 Date: July 2023
+
+---
+
+** This repo only includes sample code and algorithms written by Zilong Guo and Noah Yin. The project ideas are from the UCB CS161 class.
 
 
  
